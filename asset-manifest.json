@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//rakyun.github.io/expense-list-app/static/css/main.667ffb7e.css",
+    "main.js": "/http//rakyun.github.io/expense-list-app/static/js/main.3366a316.js",
+    "index.html": "/http//rakyun.github.io/expense-list-app/index.html",
+    "main.667ffb7e.css.map": "/http//rakyun.github.io/expense-list-app/static/css/main.667ffb7e.css.map",
+    "main.3366a316.js.map": "/http//rakyun.github.io/expense-list-app/static/js/main.3366a316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667ffb7e.css",
+    "static/js/main.3366a316.js"
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/expense-list-app/static/css/main.667ffb7e.css",
-    "main.js": "/expense-list-app/static/js/main.3366a316.js",
-    "index.html": "/expense-list-app/index.html",
-    "main.667ffb7e.css.map": "/expense-list-app/static/css/main.667ffb7e.css.map",
-    "main.3366a316.js.map": "/expense-list-app/static/js/main.3366a316.js.map"
+    "main.css": "/expense-list/static/css/main.667ffb7e.css",
+    "main.js": "/expense-list/static/js/main.3366a316.js",
+    "index.html": "/expense-list/index.html",
+    "main.667ffb7e.css.map": "/expense-list/static/css/main.667ffb7e.css.map",
+    "main.3366a316.js.map": "/expense-list/static/js/main.3366a316.js.map"
   },
   "entrypoints": [
     "static/css/main.667ffb7e.css",
